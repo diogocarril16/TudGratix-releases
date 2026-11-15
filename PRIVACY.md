@@ -5,15 +5,16 @@ histórico, relatórios, clips, definições.
 
 ## Estatísticas para melhorar a app (só se aceitares)
 
-Na primeira vez que abres a app, ela pergunta se queres ajudar a melhorá-la. Se disseres que sim, uma vez por dia envia:
+Na primeira vez que abres a app, ela pergunta se queres ajudar a melhorá-la. Se disseres que sim, nos dias em que usas
+a app envia só um sinal (o número aleatório do PC, para contar quantas pessoas usam a app). Quando algo muda, ou uma vez
+por semana, envia também:
 
 - o modelo do CPU (núcleos e threads), da GPU (VRAM e versão do driver), da motherboard (e versão da BIOS), da RAM
   (tamanho, tipo, velocidade, nº de módulos) e dos discos;
 - se é um portátil, a resolução e a frequência do ecrã principal, quantas ventoinhas são lidas;
 - a versão do Windows e da app, e o modo (Full Power ou Safe Mode);
 - que sensores não dão leitura (por exemplo "placa X · ventoinhas"), para corrigir a app nesses PCs;
-- quantos telemóveis usam a app, por tipo (app Android, browser do Android, iPhone, outro browser);
-- que ecrãs da app abres (só contagens).
+- quantos telemóveis usam a app, por tipo (app Android, browser do Android, iPhone, outro browser).
 
 Cada PC é identificado por um número aleatório criado na instalação. **Nunca** é enviado: o teu nome, o nome do PC,
 números de série, o endereço MAC, ficheiros, jogos, o que fazes, nem nada que te identifique. O endereço IP não é
