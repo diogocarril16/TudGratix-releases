@@ -29,7 +29,7 @@
 | | |
 |---|---|
 | 🌡️ **Sensores ao vivo**<br>CPU, gráfica, RAM, placa-mãe, discos, rede e bateria, com gráficos até 24 h e alertas. | 🎯 **FPS a sério**<br>FPS, 1% low e frametime sem injetar nada. Quem limita o FPS e engasgos com a causa. |
-| 🖥️ **Overlay nos jogos**<br>Overlay Studio com perfis, temas e um perfil por jogo, que troca sozinho. | 🎬 **Clips e gravação**<br>Instant Replay com a gráfica (H.264, HEVC, AV1), até 4K/120 fps, microfone sem ruído. |
+| 🖥️ **Overlay nos jogos**<br>Overlay Studio com perfis, temas e um perfil por jogo, que troca sozinho. | 🎬 **Clips e gravação**<br>Instant Replay com a gráfica (H.264, HEVC, AV1), até 4K a 60 fps, microfone sem ruído. |
 | 🌀 **Ventoinhas**<br>Curvas, perfis prontos e um teste que recomenda o melhor perfil, com proteções. | 🌈 **RGB**<br>PC, periféricos, fitas e hubs num sítio só, cores à temperatura e horário para apagar. |
 | 🧹 **Limpeza e desinstalar a fundo**<br>Onde está o espaço, limpeza segura e o que os desinstaladores deixam para trás. | 🔧 **Drivers e BIOS**<br>Drivers e atualizações do Windows, a drive da gráfica num clique e guia da BIOS. |
 | 📱 **O PC no telemóvel**<br>Estado ao vivo, ecrã do PC, jogos, volume, desligar e Wake on LAN, também fora de casa. | 🛡️ **Controlo parental**<br>Minutos por jogo, horários, hora de dormir e uma contagem com um bicho fofo do tema. |
